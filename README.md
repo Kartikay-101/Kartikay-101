@@ -5,8 +5,6 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikay-101&label=Profile%20views&color=0e75b6&style=flat" alt="kartikay-101" /> </p>
-
 <p align="left"> <a href="https://twitter.com/@kartikay____" target="blank"><img src="https://img.shields.io/twitter/follow/@kartikay____?logo=twitter&style=for-the-badge" alt="@kartikay____" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks,courses etc.**
@@ -35,6 +33,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikay-101&" alt="kartikay-101" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikay-101" alt="kartikay-101" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=roblox-codex&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/Kartikay-101/Kartikay-101/blob/main/animation.svg" />
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
