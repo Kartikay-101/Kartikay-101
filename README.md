@@ -25,11 +25,11 @@
 <br/>
 <br/>
 <div align="center">
-    <img loading="lazy" align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px">
+   <a href="https://kartikay-101.github.io/Portfolio/" target="main"> <img loading="lazy" align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px"> </a>
     <br/>
     <div align="left">
-        <img loading="lazy" width="21" src="https://github.com/montasim/montasim/blob/main/media/icons/charismatic.png?raw=true" alt="wave png" />
-        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am montasim svg" />
+     <a href="https://kartikay-101.github.io/Portfolio/" target="main"> <img loading="lazy" width="21" src="https://github.com/montasim/montasim/blob/main/media/icons/charismatic.png?raw=true" alt="wave png" /> </a>
+        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="I am kartikay svg" />
     </div>
 </div>
 <br/><br/>
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 <div align="center"> 
-    <img loading="lazy" width="21" align="center" src="https://github.com/montasim/montasim/blob/main/media/icons/pie-chart.png?raw=true" alt="pie chart png" />
+<a href="https://kartikay-101.github.io/Portfolio/" target="main"><img loading="lazy" width="21" align="center" src="https://github.com/montasim/montasim/blob/main/media/icons/pie-chart.png?raw=true" alt="pie chart png" /> </a>
     <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <br/>
