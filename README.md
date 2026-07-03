@@ -5,11 +5,12 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
 </div>
 
-<h1 align="center"> I'm Kartikay Nautiyal</h1>
-<h3 align="center">A Passionate Software Developer🧑🏻‍💻, from India</h3>
+<h1 align="center"> Hi 👋, I'm Kartikay Nautiyal</h1>
+<h3 align="center">A Passionate Data Analyst🧑🏻‍💻, from India</h3>
+<h4 align="center">Data Analyst | Python | SQL | Excel | Power BI | Git</h4>
 <br/>
 <br/>
-<a href="https://kartikay-101.github.io/Portfolio/" target="main"> <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> </a>
+<a href="https://kartikay-101.netlify.app/" target="main"> <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> </a>
 
 <p align="left"> <a href="https://twitter.com/@kartikay____" target="blank"><img src="https://img.shields.io/twitter/follow/@kartikay____?logo=twitter&style=for-the-badge" alt="@kartikay____" /></a> </p>
 
