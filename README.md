@@ -14,11 +14,19 @@
 
 <p align="left"> <a href="https://twitter.com/@kartikay____" target="blank"><img src="https://img.shields.io/twitter/follow/@kartikay____?logo=twitter&style=for-the-badge" alt="@kartikay____" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks,courses etc.**
+- 🎓 **Bachelor of Computer Applications (BCA) Graduate**
 
-- 💬 Ask me about **Web Development.**
+- 💼 Former **Analyst at Coforge**
 
-- 📫 How to reach me **k.matrix.hacked@gmail.com**
+- 📊 Passionate about **Data Analytics, Business Intelligence, and Automation**
+
+- 📈 Interested in transforming raw data into meaningful business insights
+
+- 💻 Building projects using **Python, SQL, Excel, Power BI, Git & GitHub**
+
+- 🚀 Open to opportunities in **Data Analytics**
+
+- 📫 Reach me at **k.matrix.hacked@gmail.com**
 
 - 📄 Know about my experiences  ~~~ <a href="https://drive.google.com/file/d/15ia-n0RwwHtpQ1Adft2qLyjqn_YGgYba/view?usp=share_link" target="main"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" height="30" width="40"></a>
 - ⚡ Fun fact **I think I'm Funny...😅**
@@ -34,17 +42,29 @@
 </div>
 <br/><br/>
    <p> 
-    Hi there! I am Kartikay Nautiyal, and I love building things that exist on the internet. My passion for web development began in 2023 while working on a Hackathon project. This project exposed me to the world of HTML and CSS, and I gained valuable knowledge from it.
+    Hi, I'm **Kartikay Nautiyal**, a Data Analytics enthusiast with professional experience in the **US Mortgage & Title Search** domain at **Coforge**.
 </p>
 <p>
-  I am an undergraduate Computer Engineer at GL Bajaj Institute of Management, currently working as a Junior Frontend Developer. My focus is on building inclusive and accessible digital experiences and products..
+  I enjoy solving real-world problems using data and building practical solutions with Python and SQL. My GitHub serves as a collection of projects that reflect my continuous focus on analytics, automation, and problem solving.
 </p>
 
 <p>
     I would like to utilize my technical expertise by working with a team that focuses on skill development.
 </p>
 <!-- my summary end -->
+### What you'll find here
 
+- 📊 Data Analytics Projects
+
+- 🐍 Python Projects
+
+- 🗄 SQL Practice & Database Projects
+
+- 📈 Excel & Power BI Dashboards
+
+- ⚙ Automation Scripts
+
+- 💡 Continuous improvements through practical projects
 <br/>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
