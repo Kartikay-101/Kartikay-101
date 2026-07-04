@@ -26,7 +26,7 @@
 
 - 🚀 Open to opportunities in **Data Analytics**
 
-- 📫 Reach me at <p> LinkdeIn <a href ="https://www.linkedin.com/in/kartikay-nautiyal-251a55263/" target="main" >  </p>
+- 📫 Reach me at <a href="https://www.linkedin.com/in/kartikay-nautiyal-251a55263/" target="_blank">LinkedIn</a>
 
 - 📄 Know about my experiences  ~~~ <a href="https://drive.google.com/file/d/15ia-n0RwwHtpQ1Adft2qLyjqn_YGgYba/view?usp=share_link" target="main"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" height="30" width="40"></a>
 - ⚡ Fun fact **I think I'm Funny...😅**
