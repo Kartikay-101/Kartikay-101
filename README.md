@@ -11,7 +11,7 @@
 
 <h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> , I'm Kartikay Nautiyal</h1>
 <h3 align="center">A Passionate Data Analyst🧑🏻‍💻, from India</h3>
-<h6 align="center">Data Analyst | Python | SQL | Excel | Power BI | Git</h6>
+<h6 align="center">Data Analyst | Python | SQL | Excel | Power BI | Tableau | Turning Data into Actionable Insights</h6>
 <br/>
 <br/>
 <a href="https://kartikay-101.netlify.app/" target="main"> <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> </a>
