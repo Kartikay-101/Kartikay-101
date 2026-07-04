@@ -116,7 +116,7 @@ I would like to utilize my technical expertise by working with a team that focus
 <!-- github trophy end -->
 
 <div align="center">
-    <img loading="lazy" width="100%" alt="colored gif" src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer]">
+    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
 </div>
 
 
