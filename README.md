@@ -111,7 +111,7 @@ I would like to utilize my technical expertise by working with a team that focus
 <!-- github trophy start -->
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=Kartikay-101&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=kartikay-101&theme=gruvbox)
 </div>
 <!-- github trophy end -->
 
