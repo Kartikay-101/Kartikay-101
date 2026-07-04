@@ -1,5 +1,7 @@
 <!--Banner-->
-![kartikay-101 Banner Image](./banner.png)
+<a href="https://www.linkedin.com/in/kartikay-nautiyal-251a55263/" target="_blank">
+  <img src="./banner.png" alt="Kartikay-101 Banner Image">
+</a>
 
 <div align="center">
     <img  />
