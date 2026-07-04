@@ -8,7 +8,7 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
 </div>
 
-<h1 align="center"> Hi 👋, I'm Kartikay Nautiyal</h1>
+<h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> , I'm Kartikay Nautiyal</h1>
 <h3 align="center">A Passionate Data Analyst🧑🏻‍💻, from India</h3>
 <h6 align="center">Data Analyst | Python | SQL | Excel | Power BI | Git</h6>
 <br/>
@@ -39,16 +39,16 @@
 -->
 - ⚡ Fun fact **I think I'm Funny...😅**
 <br/>
-<br/>
-<br/>
+
 <div align="center">
     <br/>
     <div align="left">
-     <a href="https://kartikay-101.netlify.app/" target="main"> <img loading="lazy" width="21" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=008280&amp;vCenter=true&amp;repeat=false&amp;width=240&amp;height=30&amp;lines=The+impact+I+deliver" alt="wave png" /> </a>
+     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
         <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="I am kartikay svg" />
     </div>
+  <hr>
 </div>
-<br/><br/>
+
   <p>
 Hi, I'm <strong>Kartikay Nautiyal</strong>, a Data Analytics enthusiast with professional experience in the <strong>Analyst</strong> domain at <strong>Coforge</strong>.
 </p>
@@ -61,6 +61,11 @@ I enjoy solving real-world problems using data and building practical solutions 
 I would like to utilize my technical expertise by working with a team that focuses on skill development.
 </p>
 <!-- my summary end -->
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 ### What you'll find here
 
 - 📊 Data Analytics Projects
@@ -72,10 +77,10 @@ I would like to utilize my technical expertise by working with a team that focus
 - 📈 Excel & Power BI Dashboards
 
 - ⚙ Automation Scripts
-
+  
 - 💡 Continuous improvements through practical projects
 <br/>
-<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
@@ -90,16 +95,16 @@ I would like to utilize my technical expertise by working with a team that focus
 <br/>
 <br/>
 <div align="center"> 
-<a href="https://kartikay-101.github.io/Portfolio/" target="main"><img loading="lazy" width="21" align="center" src="https://github.com/montasim/montasim/blob/main/media/icons/pie-chart.png?raw=true" alt="pie chart png" /> </a>
-    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+<a href="https://kartikay-101.netlify.app/" target="main"></a>
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=400&height=21&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <br/>
 <div align="center">
     <!-- github streak start -->
-    <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=kartikay-101&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
+    <img loading="lazy" width=396 src="https://montasim-github-readme-streak-stats.vercel.app/?user=kartikay-101&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=00000000&border=00000000&ring=00B8B5&fire=EB008B&currStreakNum=EB008B&sideNums=00B8B5&currStreakLabel=00B8B5&sideLabels=00B8B5&excludeDaysLabel=00B8B5&dates=00B8B5" alt="current streak stats" />
     <!-- github streak end -->
     <!-- github stats start -->
-    <img loading="lazy" width=396 src="https://github-readme-stats-mnex.vercel.app/api?username=kartikay-101&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
+    <img loading="lazy" width=396 src="https://montasim-github-readme-stats.vercel.app/api?username=kartikay-101&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&title_color=EB008B&icon_color=EB008B&bg_color=00000000&text_color=00B8B5&border_color=00000000&hide_border=true" alt="github stats" />
     <!-- github stats end -->
 </div>
 
