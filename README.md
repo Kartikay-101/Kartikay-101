@@ -28,7 +28,12 @@
 
 - 📫 Reach me at <a href="https://www.linkedin.com/in/kartikay-nautiyal-251a55263/" target="_blank">LinkedIn</a>
 
-- 📄 Know about my experiences  ~~~ <a href="https://drive.google.com/file/d/15ia-n0RwwHtpQ1Adft2qLyjqn_YGgYba/view?usp=share_link" target="main"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" height="30" width="40"></a>
+<!--
+📄 Know about my experiences ~~~
+<a href="https://drive.google.com/file/d/15ia-n0RWwHTn01Adft2qLyjqn_YGgVba/view?usp=share_link" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" height="30" width="40">
+</a>
+-->
 - ⚡ Fun fact **I think I'm Funny...😅**
 <br/>
 <br/>
@@ -41,15 +46,16 @@
     </div>
 </div>
 <br/><br/>
-   <p> 
-    Hi, I'm **Kartikay Nautiyal**, a Data Analytics enthusiast with professional experience in the **US Mortgage & Title Search** domain at **Coforge**.
-</p>
-<p>
-  I enjoy solving real-world problems using data and building practical solutions with Python and SQL. My GitHub serves as a collection of projects that reflect my continuous focus on analytics, automation, and problem solving.
+  <p>
+Hi, I'm <strong>Kartikay Nautiyal</strong>, a Data Analytics enthusiast with professional experience in the <strong>US Mortgage & Title Search</strong> domain at <strong>Coforge</strong>.
 </p>
 
 <p>
-    I would like to utilize my technical expertise by working with a team that focuses on skill development.
+I enjoy solving real-world problems using data and building practical solutions with <strong>Python</strong> and <strong>SQL</strong>. My GitHub serves as a collection of projects that reflect my continuous focus on analytics, automation, and problem solving.
+</p>
+
+<p>
+I would like to utilize my technical expertise by working with a team that focuses on skill development.
 </p>
 <!-- my summary end -->
 ### What you'll find here
