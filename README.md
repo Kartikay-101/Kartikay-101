@@ -41,7 +41,7 @@
 <div align="center">
     <br/>
     <div align="left">
-     <a href="https://kartikay-101.github.io/Portfolio/" target="main"> <img loading="lazy" width="21" src="[https://github.com/montasim/montasim/blob/main/media/icons/charismatic.png?raw=true](https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=008280&amp;vCenter=true&amp;repeat=false&amp;width=240&amp;height=30&amp;lines=The+impact+I+deliver)" alt="wave png" /> </a>
+     <a href="https://kartikay-101.github.io/Portfolio/" target="main"> <img loading="lazy" width="21" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=008280&amp;vCenter=true&amp;repeat=false&amp;width=240&amp;height=30&amp;lines=The+impact+I+deliver" alt="wave png" /> </a>
         <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="I am kartikay svg" />
     </div>
 </div>
