@@ -41,7 +41,7 @@
 <div align="center">
     <br/>
     <div align="left">
-     <a href="https://kartikay-101.github.io/Portfolio/" target="main"> <img loading="lazy" width="21" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=008280&amp;vCenter=true&amp;repeat=false&amp;width=240&amp;height=30&amp;lines=The+impact+I+deliver" alt="wave png" /> </a>
+     <a href="https://kartikay-101.netlify.app/" target="main"> <img loading="lazy" width="21" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=008280&amp;vCenter=true&amp;repeat=false&amp;width=240&amp;height=30&amp;lines=The+impact+I+deliver" alt="wave png" /> </a>
         <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="I am kartikay svg" />
     </div>
 </div>
@@ -116,7 +116,7 @@ I would like to utilize my technical expertise by working with a team that focus
 <!-- github trophy end -->
 
 <div align="center">
-    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+    <img loading="lazy" width="100%" alt="colored gif" src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)">
 </div>
 
 
@@ -124,11 +124,11 @@ I would like to utilize my technical expertise by working with a team that focus
 
 <h2>Visitors👇🏻</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/{kartikay-101}/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Kartikay-101&style=plastic)
 <br/>
 
 <div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=3000&pause=3&color=008000&center=true&vCenter=true&width=300&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+Kartikay Nautiyal" alt="build with love svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com/?font=Anton&weight=600&size=16&duration=3000&pause=3&color=008000&center=true&vCenter=true&width=300&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+Kartikay%20Nautiyal" alt="build with love svg" />
 </div>
 
 <br/>
