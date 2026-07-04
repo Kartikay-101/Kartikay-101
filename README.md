@@ -2,7 +2,8 @@
 <a href="https://www.linkedin.com/in/kartikay-nautiyal-251a55263/" target="_blank">
   <img src="./banner.png" alt="Kartikay-101 Banner Image">
 </a>
-
+<br/>
+<br/>
 <div align="center">
     <img  />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
@@ -81,9 +82,22 @@ I would like to utilize my technical expertise by working with a team that focus
 - 💡 Continuous improvements through practical projects
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 
+
+<h3 align="left">Areas of Expertise</h3>
+<ul align="left">
+  <li>I enjoy turning raw data into meaningful insights using Python, SQL, Excel, and Power BI.</li>
+  <li> I love learning new technologies and building projects that solve real-world problems.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.
+  My GitHub is where I document my learning journey and the projects I build along the way.</li>
+</ul>
+  
 <h3 align="left">FEEL FREE TO CONNECT WITH ME ANYTIME:</h3>
 <p align="left">
 <a href="https://twitter.com/@kartikay____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kartikay____" height="30" width="40" /></a>
@@ -91,7 +105,10 @@ I would like to utilize my technical expertise by working with a team that focus
 <a href="https://instagram.com/kartikay_nautiyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikay_nautiyal" height="30" width="40" /></a>
 <a href="https://discord.gg/2BeekwwncC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8DEXDkYW" height="30" width="40" /></a>
 </p>
-
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kartikay-101&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kartikay" style="padding-right:20px;" />
+</p>
 <br/>
 <br/>
 <div align="center"> 
@@ -130,14 +147,20 @@ I would like to utilize my technical expertise by working with a team that focus
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/Kartikay-101/Kartikay-101/blob/main/animation.svg" />
 
-<h2>Visitors👇🏻</h2>
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Kartikay-101&style=plastic)
-<br/>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=One%20day%2C%20in%20retrospect%2C%20the%20years%20of%20struggle%20will%20strike%20you%20as%20the%20most%20beautiful.&theme=dark&bg_color=0d1117&author_color=c3d1d9&accent_color=22c55e">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
+
+<hr>
 <div align="center">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com/?font=Anton&weight=600&size=16&duration=3000&pause=3&color=008000&center=true&vCenter=true&width=300&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+Kartikay%20Nautiyal" alt="build with love svg" />
 </div>
-
+<hr>
 <br/>
 <be/>
